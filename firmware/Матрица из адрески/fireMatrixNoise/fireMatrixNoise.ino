@@ -6,11 +6,11 @@
 
 // настройки пламени
 #define HUE_GAP 50      // заброс по hue
-#define FIRE_STEP 30    // шаг изменения "языков" пламени
+#define FIRE_STEP 50    // шаг изменения "языков" пламени
 #define HUE_START 2     // начальный цвет огня (0 красный, 80 зелёный, 140 молния, 190 розовый)
-#define MIN_BRIGHT 50   // мин. яркость огня
+#define MIN_BRIGHT 40   // мин. яркость огня
 #define MAX_BRIGHT 255  // макс. яркость огня
-#define MIN_SAT 200     // мин. насыщенность
+#define MIN_SAT 220     // мин. насыщенность
 #define MAX_SAT 255     // макс. насыщенность
 
 #define ORDER_GRB       // порядок цветов ORDER_GRB / ORDER_RGB / ORDER_BRG
