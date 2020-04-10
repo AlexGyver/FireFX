@@ -1,5 +1,5 @@
 ![PROJECT_PHOTO](https://github.com/AlexGyver/FireFX/blob/master/proj_img.jpg)
-# Автоматический наливатор напитков на Arduino
+# Огонь на светодиодной ленте и Arduino
 * [Описание проекта](#chapter-0)
 * [Папки проекта](#chapter-1)
 * [Схемы подключения](#chapter-2)
