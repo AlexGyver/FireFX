@@ -41,29 +41,29 @@
 <a id="chapter-3"></a>
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
-- Arduino NANO https://ali.ski/ncNs-N  https://ali.ski/8zaMS
-- Адресная лента https://ali.ski/xIkXAq
+- Arduino NANO https://ali.ski/eO-ZIT  https://ali.ski/aZg0m
+- Адресная лента https://ali.ski/haLd0T
 - Лента на Giant4
 	- 60 лед/м
 	- 30 лед/м
 - Матрица 16×16
-	- https://ali.ski/pOMcck
-	- https://ali.ski/nSJCP
-	- https://ali.ski/hI6tov
+	- https://ali.ski/fcjc8
+	- https://ali.ski/P3tSQk
+	- https://ali.ski/Wf7rG
 - БП 5V (брать 3A (15W) минимум)
-	- https://ali.ski/5KagQ 
-	- https://ali.ski/C-18t
-	- https://ali.ski/84euA
+	- https://ali.ski/27-VxW 
+	- https://ali.ski/yBw61
+	- https://ali.ski/EkIXu
 - RGB лента 
 	- Лента Giant4 https://giant4.ru/5050-120.html
-	- Лента Али RGB 120 http://ali.ski/vbMJ7  http://ali.ski/oHXeDW
+	- Лента Али RGB 120 https://ali.ski/NjsMky  https://ali.ski/P1E3kM
 - Драйвер для RGB
-	- LED amplifier http://ali.ski/5hBBA http://ali.ski/ZnPmT http://ali.ski/11pPxQ
-	- MOSFET IRF3205 (10 шт) http://ali.ski/916JVj http://ali.ski/X9lHRB
-	- Резисторы (100R и 10k) http://ali.ski/Q7u9s http://ali.ski/-zewE2
+	- LED amplifier https://ali.ski/nuGa- https://ali.ski/tW5cI https://ali.ski/ihOy9B
+	- MOSFET IRF3205 (10 шт) https://ali.ski/MjIa4g https://ali.ski/MhEbD
+	- Резисторы (100R и 10k) https://ali.ski/gVTFO https://ali.ski/4f9GN
 - БП 12V для RGB 
-	- http://ali.ski/sH-LK 
-	- http://ali.ski/8F7bYh
+	- https://ali.ski/VXZvJc 
+	- https://ali.ski/ah5DW
 
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
